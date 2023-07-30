@@ -18,7 +18,7 @@ Here's what sets us apart:
 
 5. **Stay In Control:** Set budgets, savings goals, and receive timely alerts to stay on track. Our app serves as your financial partner, keeping you accountable every step of the way.
 
-Financial freedom is within your reach. Join thousands of users who have already transformed their financial lives with [Your Web Application Name]. Say goodbye to money-related stress and embrace a brighter, more secure financial future.
+Financial freedom is within your reach. Join thousands of users who have already transformed their financial lives with [PFi Analyzer]. Say goodbye to money-related stress and embrace a brighter, more secure financial future.
 
 Sign up today and embark on your journey to financial empowerment!
 
